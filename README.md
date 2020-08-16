@@ -8,4 +8,4 @@
 - I love building cool electronic projects.  
 
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to performing magic tricks and read books.
+- ⚡ Fun fact: I love performing magic tricks and reading self development books.
