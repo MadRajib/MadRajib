@@ -1,6 +1,6 @@
 ## Hie, I'm MadRajib, from MadrRajib Lab. 
 
-## I'm a Student, Developer, Game Designer and Teacher! 
+## I'm a Student, Developer, Game Designer and Teacher  
 
 - I'm currently pursuing my master degree in Computer Science.  
 - I’m currently learning about Deep-Learning.
